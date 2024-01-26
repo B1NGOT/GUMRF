@@ -1,0 +1,128 @@
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Menu.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\bin\Debug\Program.exe.config
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\bin\Debug\Program.exe
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\bin\Debug\Program.pdb
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.exe
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.pdb
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Connect.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.InvoiceForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.DriverForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.ClientForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.CarForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.Query.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.FeedbackForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.InsuranceForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.RefuelForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.RepairForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.BaseForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.EventForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.RestoreForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.BackUpForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.LogForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Заказ\Таксопарк\Program\Program\obj\Debug\Program.Forms.TripForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Connect.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.DeskForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.CatDishForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.BaseForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.DishForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.ClientForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.CatForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.Orders.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Forms.OrderListForm.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Menu.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.Properties.Resources.resources
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.csproj.GenerateResource.cache
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.exe
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.pdb
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Program.exe.config
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Program.exe
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Program.pdb
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Google.Protobuf.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Compression.LZ4.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Hash.xxHash.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\MySql.Data.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Buffers.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.IO.Pipelines.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Memory.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Numerics.Vectors.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\ZstdSharp.dll
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Google.Protobuf.pdb
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Google.Protobuf.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Compression.LZ4.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\K4os.Hash.xxHash.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\MySql.Data.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Buffers.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.IO.Pipelines.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Memory.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Numerics.Vectors.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Облако\Архив работ\C#\СУБД CS\Ресторан\Program\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Технология программирования\1\Program\bin\Debug\Program.exe.config
+D:\Технология программирования\1\Program\bin\Debug\Program.exe
+D:\Технология программирования\1\Program\bin\Debug\Program.pdb
+D:\Технология программирования\1\Program\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Технология программирования\1\Program\bin\Debug\Google.Protobuf.dll
+D:\Технология программирования\1\Program\bin\Debug\K4os.Compression.LZ4.dll
+D:\Технология программирования\1\Program\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Технология программирования\1\Program\bin\Debug\K4os.Hash.xxHash.dll
+D:\Технология программирования\1\Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Технология программирования\1\Program\bin\Debug\MySql.Data.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Buffers.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Технология программирования\1\Program\bin\Debug\System.IO.Pipelines.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Memory.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Numerics.Vectors.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Технология программирования\1\Program\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Технология программирования\1\Program\bin\Debug\ZstdSharp.dll
+D:\Технология программирования\1\Program\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Технология программирования\1\Program\bin\Debug\Google.Protobuf.pdb
+D:\Технология программирования\1\Program\bin\Debug\Google.Protobuf.xml
+D:\Технология программирования\1\Program\bin\Debug\K4os.Compression.LZ4.xml
+D:\Технология программирования\1\Program\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Технология программирования\1\Program\bin\Debug\K4os.Hash.xxHash.xml
+D:\Технология программирования\1\Program\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Технология программирования\1\Program\bin\Debug\MySql.Data.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Buffers.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Технология программирования\1\Program\bin\Debug\System.IO.Pipelines.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Memory.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Numerics.Vectors.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Технология программирования\1\Program\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Технология программирования\1\Program\obj\Debug\Program.csproj.AssemblyReference.cache
+D:\Технология программирования\1\Program\obj\Debug\Program.Connect.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.DeskForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.CatDishForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.BaseForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.DishForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.ClientForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.CatForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.Orders.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Forms.OrderListForm.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Menu.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.Properties.Resources.resources
+D:\Технология программирования\1\Program\obj\Debug\Program.csproj.GenerateResource.cache
+D:\Технология программирования\1\Program\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\Технология программирования\1\Program\obj\Debug\Program.csproj.CopyComplete
+D:\Технология программирования\1\Program\obj\Debug\Program.exe
+D:\Технология программирования\1\Program\obj\Debug\Program.pdb
